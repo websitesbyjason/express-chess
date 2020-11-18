@@ -1,0 +1,27 @@
+{
+  "name": "express-chess",
+  "version": "1.0.0",
+  "description": "chess app written in express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websitesbyjason/express-chess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/websitesbyjason/express-chess/issues"
+  },
+  "homepage": "https://github.com/websitesbyjason/express-chess#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {}
+}
